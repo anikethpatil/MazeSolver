@@ -1,3 +1,4 @@
 # MazeSolver
-import pyamaze library from
-https://github.com/MAN1986/pyamaze/blob/main/pyamaze/pyamaze.py
+Make sure you have the pyamaze library installed.You can install it using:
+pip install pyamaze
+
